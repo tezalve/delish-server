@@ -1,183 +1,272 @@
 [
     {
-        "name": "Classic Lasagna",
+        "recipe_name": "Miso Soup",
         "ingredients": [
-            "1 lb. ground beef",
-            "1 lb. Italian sausage",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "28 oz. can crushed tomatoes",
-            "2 tbsp. tomato paste",
-            "2 tbsp. fresh basil, chopped",
-            "1 tbsp. fresh oregano, chopped",
-            "1/2 tsp. salt",
-            "1/4 tsp. black pepper",
-            "8 oz. lasagna noodles",
-            "15 oz. ricotta cheese",
-            "2 cups shredded mozzarella cheese",
-            "1/2 cup grated Parmesan cheese"
+            "Dashi",
+            "Miso paste",
+            "Tofu",
+            "Green onions",
+            "Dashi"
         ],
-        "cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet, cook beef, sausage, onion, and garlic over medium heat until browned. Drain any excess fat. \n3. Stir in crushed tomatoes, tomato paste, basil, oregano, salt, and pepper. Simmer for 10 minutes. \n4. Meanwhile, cook lasagna noodles according to package directions. \n5. In a mixing bowl, combine ricotta cheese, 1 1/2 cups mozzarella cheese, and Parmesan cheese. \n6. In a 9x13 inch baking dish, layer noodles, meat sauce, and cheese mixture. Repeat layers. \n7. Top with remaining 1/2 cup mozzarella cheese. \n8. Bake for 25-30 minutes or until cheese is melted and bubbly.",
-        "rating": 4.5
+        "cooking_method": "1. Boil dashi in a saucepan. 2. Add miso paste and stir until it dissolves. 3. Add tofu and cook for a few minutes. 4. Garnish with chopped green onions.",
+        "rating": 4.5,
+        "chef_id": "1"
     },
     {
-        "name": "Roasted Chicken",
+        "recipe_name": "Tempura",
         "ingredients": [
-            "1 whole chicken, about 4 pounds",
-            "2 tbsp. olive oil",
-            "1 lemon, sliced",
-            "1 onion, chopped",
-            "4 cloves garlic, minced",
-            "2 sprigs fresh rosemary",
-            "2 sprigs fresh thyme",
-            "1/2 tsp. salt",
-            "1/4 tsp. black pepper"
+            "Shrimp",
+            "Vegetables",
+            "Flour",
+            "Egg",
+            "Ice water"
         ],
-        "cooking_method": "1. Preheat oven to 425°F. \n2. Remove giblets from chicken and rinse chicken under cold water. Pat dry with paper towels. \n3. Place chicken in a roasting pan. Rub olive oil over chicken. \n4. Stuff chicken cavity with lemon slices, onion, garlic, rosemary, and thyme. \n5. Sprinkle salt"
+        "cooking_method": "1. Prepare tempura batter by mixing flour, egg, and ice water. 2. Dip shrimp and vegetables in the batter. 3. Deep-fry in hot oil until golden brown. 4. Serve with dipping sauce.",
+        "rating": 4.2,
+        "chef_id": "1"
     },
     {
-        "name": "Spaghetti Carbonara",
+        "recipe_name": "Tempura",
         "ingredients": [
-            "8 oz. spaghetti",
-            "4 slices bacon, chopped",
-            "2 cloves garlic, minced",
-            "2 eggs",
-            "1/2 cup grated Parmesan cheese",
-            "Salt and pepper"
+            "Shrimp",
+            "Assorted vegetables",
+            "Flour",
+            "Cornstarch",
+            "Baking powder",
+            "Egg",
+            "Ice water",
+            "Tempura dipping sauce"
         ],
-        "cooking_method": "1. Cook spaghetti according to package directions. Drain and reserve 1/2 cup pasta water. \n2. In a skillet, cook bacon over medium heat until crispy. Add garlic and cook for 1 minute. \n3. In a mixing bowl, whisk together eggs, Parmesan cheese, salt, and pepper. \n4. Add cooked spaghetti to skillet with bacon and garlic. Toss to combine. Remove from heat. \n5. Gradually pour egg mixture over spaghetti, stirring constantly. Add reserved pasta water, as needed, to create a creamy sauce. \n6. Serve immediately.",
-        "rating": 4.8
+        "cooking_method": "1. Mix flour, cornstarch, baking powder, egg, and ice water in a bowl to make batter. 2. Dip shrimp and assorted vegetables into the batter. 3. Heat up a pot of oil to 350°F/175°C. 4. Fry the shrimp and vegetables in the oil until the batter is golden brown. 5. Serve hot with tempura dipping sauce.",
+        "rating": 4.2,
+        "chef_id": "1"
     },
     {
-        "name": "Baked Salmon",
+        "recipe_name": "Ramen",
         "ingredients": [
-            "4 salmon fillets",
-            "2 tbsp. olive oil",
-            "1 tbsp. lemon juice",
-            "1 tsp. dried dill",
-            "Salt and pepper"
+            "Ramen noodles",
+            "Broth",
+            "Chashu pork",
+            "Green onions",
+            "Egg"
         ],
-        "cooking_method": "1. Preheat oven to 375°F. \n2. Place salmon fillets in a baking dish. \n3. In a mixing bowl, whisk together olive oil, lemon juice, dried dill, salt, and pepper. \n4. Pour mixture over salmon. \n5. Bake for 15-20 minutes or until salmon is cooked through.",
-        "rating": 4.5
+        "cooking_method": "1. Cook ramen noodles according to package instructions. 2. Heat up broth. 3. Add chashu pork and green onions to the broth. 4. Boil an egg and cut in half. 5. Place cooked noodles in a bowl. 6. Pour the hot broth with chashu pork over the noodles. 7. Add the boiled egg and garnish with additional green onions.",
+        "rating": 4.6,
+        "chef_id": "2"
     },
     {
-        "name": "Roasted Vegetables",
+        "recipe_name": "Tonkatsu",
         "ingredients": [
-            "1 lb. mixed vegetables (e.g. carrots, potatoes, broccoli, bell peppers)",
-            "2 tbsp. olive oil",
-            "1 tsp. dried thyme",
-            "1/2 tsp. garlic powder",
-            "Salt and pepper"
+            "Pork loin",
+            "Panko bread crumbs",
+            "Flour",
+            "Egg",
+            "Cabbage",
+            "Tonkatsu sauce"
         ],
-        "cooking_method": "1. Preheat oven to 425°F. \n2. Cut vegetables into bite-sized pieces. \n3. In a mixing bowl, toss vegetables with olive oil, dried thyme, garlic powder, salt, and pepper. \n4. Spread vegetables in a single layer on a baking sheet. \n5. Roast for 20-25 minutes or until vegetables are tender and slightly caramelized.",
-        "rating": 4.2
+        "cooking_method": "1. Pound pork loin to tenderize. 2. Coat the pork in flour, then egg, then panko bread crumbs. 3. Deep-fry in hot oil until golden brown. 4. Cut the cabbage into thin strips. 5. Serve the tonkatsu with the cabbage and tonkatsu sauce.",
+        "rating": 4.3,
+        "chef_id": "2"
     },
     {
-        "name": "Classic Beef Stew",
+        "recipe_name": "Okonomiyaki",
         "ingredients": [
-            "2 lbs. beef chuck roast, cut into 1-inch cubes",
-            "1/4 cup all-purpose flour",
-            "1 tbsp. olive oil",
-            "4 cloves garlic, minced",
-            "2 onions, chopped",
-            "4 carrots, peeled and chopped",
-            "2 celery stalks, chopped",
-            "2 cups beef broth",
-            "1 cup red wine",
-            "1 can diced tomatoes",
-            "2 bay leaves",
-            "1 tsp. dried thyme",
-            "Salt and pepper"
+            "Flour",
+            "Egg",
+            "Cabbage",
+            "Yamaimo",
+            "Tenkasu",
+            "Bacon",
+            "Okonomiyaki sauce",
+            "Mayonnaise"
         ],
-        "cooking_method": "1. Preheat oven to 325°F. \n2. In a mixing bowl, coat beef cubes with flour, salt, and pepper. \n3. In a Dutch oven, heat olive oil over medium-high heat. \n4. Brown beef cubes on all sides, working in batches if necessary. \n5. Remove beef from Dutch oven and set aside. \n6. Add garlic, onions, carrots, and celery to Dutch oven. Cook for 5 minutes or until vegetables are softened. \n7. Return beef to Dutch oven. \n8. Add beef broth, red wine, diced tomatoes, bay leaves, thyme, salt, and pepper. \n9. Bring to a simmer. \n10. Cover Dutch oven and transfer to oven. Bake for 2-3 hours or until beef is tender. \n11. Remove bay leaves before serving.",
-        "rating": 4.9
+        "cooking_method": "1. Mix flour, egg, cabbage, yamaimo, and tenkasu to make batter. 2. Heat up a flat pan or griddle. 3. Pour the batter onto the pan and add bacon on top. 4. Flip the okonomiyaki over and cook until both sides are golden brown. 5. Drizzle okonomiyaki sauce and mayonnaise on top. 6. Serve with additional toppings if desired.",
+        "rating": 4.7,
+        "chef_id": "2"
     },
     {
-        "name": "Chicken Parmesan",
+        "recipe_name": "Gyoza",
         "ingredients": [
-            "4 boneless, skinless chicken breasts",
-            "1 cup Italian seasoned breadcrumbs",
-            "1/2 cup grated Parmesan cheese",
-            "1 egg",
-            "2 cups marinara sauce",
-            "1 cup shredded mozzarella cheese",
-            "2 tbsp. olive oil",
-            "Salt and pepper"
+            "Ground pork",
+            "Cabbage",
+            "Garlic",
+            "Ginger",
+            "Soy sauce",
+            "Sesame oil",
+            "Gyoza wrappers"
         ],
-        "cooking_method": "1. Preheat oven to 375°F. \n2. In a mixing bowl, combine breadcrumbs and Parmesan cheese. \n3. In another mixing bowl, beat egg. \n4. Dip chicken breasts in egg, then coat with breadcrumb mixture. \n5. In a skillet, heat olive oil over medium-high heat. \n6. Brown chicken breasts on both sides. \n7. Transfer chicken to a baking dish. \n8. Pour marinara sauce over chicken. \n9. Sprinkle shredded mozzarella cheese over sauce. \n10. Bake for 25-30 minutes or until chicken is cooked through and cheese is melted and bubbly.",
-        "rating": 4.6
+        "cooking_method": "1. Mix ground pork, chopped cabbage, minced garlic, grated ginger, soy sauce, and sesame oil to make the filling. 2. Place a spoonful of filling in the center of a gyoza wrapper. 3. Fold the wrapper and pleat the edges. 4. Pan-fry the gyoza until the bottom is crispy. 5. Add water to the pan and cover with a lid to steam the gyoza until cooked through. 6. Serve with dipping sauce.",
+        "rating": 4.4,
+        "chef_id": "3"
     },
     {
-        "name": "Shrimp Scampi",
+        "recipe_name": "Miso Soup",
         "ingredients": [
-            "1 lb. linguine",
-            "1 lb. shrimp, peeled and deveined",
-            "1/2 cup unsalted butter",
-            "4 cloves garlic, minced",
-            "1/4 tsp. red pepper flakes",
-            "1/2 cup white wine",
-            "1/4 cup freshly squeezed lemon juice",
-            "1/2 cup chopped fresh parsley",
-            "Salt and pepper"
+            "Dashi",
+            "Miso paste",
+            "Tofu",
+            "Green onions",
+            "Seaweed"
         ],
-        "cooking_method": "1. Cook linguine according to package directions. Drain and reserve 1 cup pasta water. \n2. In a skillet, melt butter over medium heat. \n3. Add garlic and red"
+        "cooking_method": "1. Prepare dashi broth according to package instructions. 2. Bring the dashi to a simmer. 3. Add miso paste and stir until dissolved. 4. Cut tofu into small cubes and add to the soup. 5. Cut green onions into thin slices and add to the soup. 6. Cut seaweed into small pieces and add to the soup. 7. Simmer the soup for a few minutes. 8. Serve hot.",
+        "rating": 4.2,
+        "chef_id": "3"
     },
     {
-        "name": "Easy Chicken Fajitas",
+        "recipe_name": "Tempura",
         "ingredients": [
-            "1 lb. boneless, skinless chicken breasts",
-            "1 red bell pepper",
-            "1 green bell pepper",
-            "1 onion",
-            "1 tbsp. olive oil",
-            "1 packet fajita seasoning",
-            "Tortillas, sour cream, and salsa for serving"
+            "Shrimp",
+            "Assorted vegetables",
+            "Flour",
+            "Cornstarch",
+            "Egg",
+            "Ice-cold water",
+            "Dipping sauce"
         ],
-        "cooking_method": "1. Slice chicken and vegetables into thin strips. \n2. In a skillet, heat olive oil over medium-high heat. \n3. Add chicken and cook until browned. \n4. Add vegetables and cook until softened. \n5. Stir in fajita seasoning and cook for 1-2 minutes. \n6. Serve with tortillas, sour cream, and salsa.",
-        "rating": 4.7
+        "cooking_method": "1. Mix flour, cornstarch, egg, and ice-cold water to make batter. 2. Cut shrimp and vegetables into bite-sized pieces. 3. Dip the shrimp and vegetables into the batter. 4. Deep-fry in hot oil until golden brown. 5. Serve with dipping sauce.",
+        "rating": 4.5,
+        "chef_id": "3"
     },
     {
-        "name": "One-Pot Spaghetti",
+        "recipe_name": "Nikujaga",
         "ingredients": [
-            "1 lb. spaghetti",
-            "1 lb. ground beef",
-            "1 onion",
-            "2 cloves garlic",
-            "1 can diced tomatoes",
-            "4 cups beef broth",
-            "1 tsp. dried oregano",
-            "Salt and pepper",
-            "Parmesan cheese for serving"
+            "Thinly sliced beef",
+            "Potato",
+            "Onion",
+            "Carrot",
+            "Sake",
+            "Sugar",
+            "Soy sauce"
         ],
-        "cooking_method": "1. In a Dutch oven, cook ground beef over medium-high heat. \n2. Add onion and garlic and cook until softened. \n3. Stir in diced tomatoes, beef broth, oregano, salt, and pepper. \n4. Add spaghetti and push it down into the liquid. \n5. Bring to a simmer and cook until spaghetti is tender, stirring occasionally. \n6. Serve with Parmesan cheese.",
-        "rating": 4.5
+        "cooking_method": "1. Slice potato, onion, and carrot into bite-sized pieces. 2. Heat up a pot with dashi, sake, sugar, and soy sauce. 3. Add the sliced vegetables to the pot and let them simmer until they're almost cooked through. 4. Add thinly sliced beef to the pot and let it cook until the beef is no longer pink. 5. Serve hot.",
+        "rating": 4.0,
+        "chef_id": "4"
     },
     {
-        "name": "Garlic Shrimp Pasta",
+        "recipe_name": "Chirashi sushi",
         "ingredients": [
-            "1 lb. linguine",
-            "1 lb. shrimp, peeled and deveined",
-            "4 cloves garlic",
-            "1/4 tsp. red pepper flakes",
-            "1/4 cup olive oil",
-            "1/4 cup freshly squeezed lemon juice",
-            "Salt and pepper",
-            "Parsley for garnish"
+            "Sushi rice",
+            "Assorted sashimi",
+            "Egg",
+            "Carrot",
+            "Shiitake mushrooms",
+            "Kanpyo",
+            "Sesame seeds",
+            "Nori",
+            "Wasabi",
+            "Soy sauce",
+            "Pickled ginger"
         ],
-        "cooking_method": "1. Cook linguine according to package directions. Reserve 1 cup pasta water. \n2. In a skillet, heat olive oil over medium heat. \n3. Add garlic and red pepper flakes and cook for 1 minute. \n4. Add shrimp and cook until pink. \n5. Stir in lemon juice and salt and pepper to taste. \n6. Toss with cooked pasta, adding reserved pasta water as needed to loosen the sauce. \n7. Garnish with parsley.",
-        "rating": 4.8
+        "cooking_method": "1. Cook sushi rice according to instructions. 2. Mix sesame seeds into the cooked rice. 3. Cut assorted sashimi, egg, carrot, and shiitake mushrooms into small pieces. 4. Rehydrate kanpyo in water and cook until tender. 5. Place the cooked sushi rice into a bowl. 6. Top the rice with the assorted sashimi, egg, carrot, shiitake mushrooms, and kanpyo. 7. Garnish with nori and wasabi. 8. Serve with soy sauce and pickled ginger.",
+        "rating": 4.5,
+        "chef_id": "4"
     },
     {
-        "name": "Sheet Pan Chicken and Vegetables",
+        "recipe_name": "Takoyaki",
         "ingredients": [
-            "1 lb. boneless, skinless chicken breasts",
-            "1 lb. baby potatoes",
-            "1 lb. green beans",
-            "2 tbsp. olive oil",
-            "1 tsp. garlic powder",
-            "1 tsp. dried thyme",
-            "Salt and pepper"
+            "Octopus",
+            "Flour",
+            "Egg",
+            "Dashi",
+            "Green onions",
+            "Takoyaki sauce",
+            "Mayonnaise",
+            "Aonori",
+            "Katsuobushi"
         ],
-        "cooking_method": "1. Preheat oven to 400°F. \n2. Cut chicken into cubes. \n3. In a mixing bowl, combine chicken, potatoes, green beans, olive oil, garlic powder, thyme"
+        "cooking_method": "1. Mix flour, egg, dashi, and chopped octopus to make batter. 2. Pour the batter into a takoyaki pan. 3. Add chopped green onions on top. 4. Flip the takoyaki balls over with a skewer until they are crispy on all sides. 5. Drizzle takoyaki sauce and mayonnaise on top. 6. Garnish with a sprinkle of aonori and katsuobushi.",
+        "rating": 4.7,
+        "chef_id": "4"
+    },
+    {
+        "recipe_name": "Gyoza",
+        "ingredients": [
+            "Ground pork",
+            "Cabbage",
+            "Garlic",
+            "Ginger",
+            "Soy sauce",
+            "Sesame oil",
+            "Gyoza wrappers"
+        ],
+        "cooking_method": "1. Mix ground pork, chopped cabbage, garlic, ginger, soy sauce, and sesame oil in a bowl. 2. Place a spoonful of filling in the center of a gyoza wrapper. 3. Fold the wrapper in half and seal the edges by crimping with your fingers. 4. Heat up a non-stick pan with oil. 5. Place the gyoza in the pan and cook until the bottom is golden brown. 6. Add water to the pan and cover with a lid. 7. Steam the gyoza until the filling is cooked through. 8. Serve hot with dipping sauce.",
+        "rating": 4.4,
+        "chef_id": "5"
+    },
+    {
+        "recipe_name": "Sukiyaki",
+        "ingredients": [
+            "Thinly sliced beef",
+            "Assorted vegetables",
+            "Tofu",
+            "Shirataki noodles",
+            "Raw eggs",
+            "Sukiyaki sauce"
+        ],
+        "cooking_method": "1. Heat up a skillet with sukiyaki sauce. 2. Place the thinly sliced beef and assorted vegetables into the skillet. 3. Cook the ingredients in the sauce until tender. 4. Add shirataki noodles and tofu to the skillet. 5. Break raw eggs into the skillet and let them cook slightly. 6. Serve hot.",
+        "rating": 4.1,
+        "chef_id": "5"
+    },
+    {
+        "recipe_name": "Oyakodon",
+        "ingredients": [
+            "Chicken thigh",
+            "Onion",
+            "Egg",
+            "Dashi",
+            "Soy sauce",
+            "Mirin",
+            "Sugar",
+            "Green onions",
+            "Steamed rice"
+        ],
+        "cooking_method": "1. Slice chicken thigh and onion into bite-sized pieces. 2. In a pan, cook the chicken and onion with dashi, soy sauce, mirin, and sugar until the chicken is cooked through. 3. Beat eggs in a separate bowl. 4. Pour the eggs over the chicken and onion mixture. 5. Cover the pan and let the eggs cook until set. 6. Serve over a bed of steamed rice and garnish with chopped green onions.",
+        "rating": 4.2,
+        "chef_id": "5"
+    },
+    {
+        "recipe_name": "Okonomiyaki",
+        "ingredients": [
+            "Flour",
+            "Egg",
+            "Water",
+            "Cabbage",
+            "Bacon",
+            "Green onions",
+            "Okonomiyaki sauce",
+            "Mayonnaise",
+            "Aonori",
+            "Katsuobushi"
+        ],
+        "cooking_method": "1. Mix flour, egg, and water in a bowl to make batter. 2. Add chopped cabbage, bacon, and green onions to the batter. 3. Heat up a non-stick pan with oil. 4. Pour the batter into the pan and flatten into a pancake shape. 5. Cook until the bottom is golden brown. 6. Flip the okonomiyaki over and cook until the other side is golden brown. 7. Drizzle okonomiyaki sauce and mayonnaise on top. 8. Garnish with a sprinkle of aonori and katsuobushi.",
+        "rating": 4.6,
+        "chef_id": "6"
+    },
+    {
+        "recipe_name": "Tonkatsu",
+        "ingredients": [
+            "Pork cutlet",
+            "Flour",
+            "Egg",
+            "Panko breadcrumbs",
+            "Cabbage",
+            "Tonkatsu sauce"
+        ],
+        "cooking_method": "1. Coat pork cutlet in flour, egg, and panko breadcrumbs in that order. 2. Heat up a pan with oil. 3. Place the pork cutlet in the pan and cook until both sides are golden brown. 4. Let the pork cutlet rest for a few minutes before slicing. 5. Serve with shredded cabbage and tonkatsu sauce.",
+        "rating": 4.3,
+        "chef_id": "6"
+    },
+    {
+        "recipe_name": "Yakitori",
+        "ingredients": [
+            "Chicken thigh",
+            "Sake",
+            "Soy sauce",
+            "Mirin",
+            "Green onions"
+        ],
+        "cooking_method": "1. Cut chicken thigh into bite-sized pieces. 2. Thread chicken onto skewers. 3. Heat up a grill or grill pan. 4. Brush the chicken with a mixture of sake, soy sauce, and mirin. 5. Grill the chicken skewers until the chicken is cooked through. 6. Garnish with chopped green onions.",
+        "rating": 4.0,
+        "chef_id": "6"
     }
 ]
