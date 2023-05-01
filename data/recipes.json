@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Classic Lasagna",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 lb. Italian sausage",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "28 oz. can crushed tomatoes",
+            "2 tbsp. tomato paste",
+            "2 tbsp. fresh basil, chopped",
+            "1 tbsp. fresh oregano, chopped",
+            "1/2 tsp. salt",
+            "1/4 tsp. black pepper",
+            "8 oz. lasagna noodles",
+            "15 oz. ricotta cheese",
+            "2 cups shredded mozzarella cheese",
+            "1/2 cup grated Parmesan cheese"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. \n2. In a large skillet, cook beef, sausage, onion, and garlic over medium heat until browned. Drain any excess fat. \n3. Stir in crushed tomatoes, tomato paste, basil, oregano, salt, and pepper. Simmer for 10 minutes. \n4. Meanwhile, cook lasagna noodles according to package directions. \n5. In a mixing bowl, combine ricotta cheese, 1 1/2 cups mozzarella cheese, and Parmesan cheese. \n6. In a 9x13 inch baking dish, layer noodles, meat sauce, and cheese mixture. Repeat layers. \n7. Top with remaining 1/2 cup mozzarella cheese. \n8. Bake for 25-30 minutes or until cheese is melted and bubbly.",
+        "rating": 4.5
+    },
+    {
+        "name": "Roasted Chicken",
+        "ingredients": [
+            "1 whole chicken, about 4 pounds",
+            "2 tbsp. olive oil",
+            "1 lemon, sliced",
+            "1 onion, chopped",
+            "4 cloves garlic, minced",
+            "2 sprigs fresh rosemary",
+            "2 sprigs fresh thyme",
+            "1/2 tsp. salt",
+            "1/4 tsp. black pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. \n2. Remove giblets from chicken and rinse chicken under cold water. Pat dry with paper towels. \n3. Place chicken in a roasting pan. Rub olive oil over chicken. \n4. Stuff chicken cavity with lemon slices, onion, garlic, rosemary, and thyme. \n5. Sprinkle salt"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            "8 oz. spaghetti",
+            "4 slices bacon, chopped",
+            "2 cloves garlic, minced",
+            "2 eggs",
+            "1/2 cup grated Parmesan cheese",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package directions. Drain and reserve 1/2 cup pasta water. \n2. In a skillet, cook bacon over medium heat until crispy. Add garlic and cook for 1 minute. \n3. In a mixing bowl, whisk together eggs, Parmesan cheese, salt, and pepper. \n4. Add cooked spaghetti to skillet with bacon and garlic. Toss to combine. Remove from heat. \n5. Gradually pour egg mixture over spaghetti, stirring constantly. Add reserved pasta water, as needed, to create a creamy sauce. \n6. Serve immediately.",
+        "rating": 4.8
+    },
+    {
+        "name": "Baked Salmon",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 tbsp. olive oil",
+            "1 tbsp. lemon juice",
+            "1 tsp. dried dill",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. \n2. Place salmon fillets in a baking dish. \n3. In a mixing bowl, whisk together olive oil, lemon juice, dried dill, salt, and pepper. \n4. Pour mixture over salmon. \n5. Bake for 15-20 minutes or until salmon is cooked through.",
+        "rating": 4.5
+    },
+    {
+        "name": "Roasted Vegetables",
+        "ingredients": [
+            "1 lb. mixed vegetables (e.g. carrots, potatoes, broccoli, bell peppers)",
+            "2 tbsp. olive oil",
+            "1 tsp. dried thyme",
+            "1/2 tsp. garlic powder",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. \n2. Cut vegetables into bite-sized pieces. \n3. In a mixing bowl, toss vegetables with olive oil, dried thyme, garlic powder, salt, and pepper. \n4. Spread vegetables in a single layer on a baking sheet. \n5. Roast for 20-25 minutes or until vegetables are tender and slightly caramelized.",
+        "rating": 4.2
+    },
+    {
+        "name": "Classic Beef Stew",
+        "ingredients": [
+            "2 lbs. beef chuck roast, cut into 1-inch cubes",
+            "1/4 cup all-purpose flour",
+            "1 tbsp. olive oil",
+            "4 cloves garlic, minced",
+            "2 onions, chopped",
+            "4 carrots, peeled and chopped",
+            "2 celery stalks, chopped",
+            "2 cups beef broth",
+            "1 cup red wine",
+            "1 can diced tomatoes",
+            "2 bay leaves",
+            "1 tsp. dried thyme",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 325°F. \n2. In a mixing bowl, coat beef cubes with flour, salt, and pepper. \n3. In a Dutch oven, heat olive oil over medium-high heat. \n4. Brown beef cubes on all sides, working in batches if necessary. \n5. Remove beef from Dutch oven and set aside. \n6. Add garlic, onions, carrots, and celery to Dutch oven. Cook for 5 minutes or until vegetables are softened. \n7. Return beef to Dutch oven. \n8. Add beef broth, red wine, diced tomatoes, bay leaves, thyme, salt, and pepper. \n9. Bring to a simmer. \n10. Cover Dutch oven and transfer to oven. Bake for 2-3 hours or until beef is tender. \n11. Remove bay leaves before serving.",
+        "rating": 4.9
+    },
+    {
+        "name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup Italian seasoned breadcrumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 egg",
+            "2 cups marinara sauce",
+            "1 cup shredded mozzarella cheese",
+            "2 tbsp. olive oil",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. \n2. In a mixing bowl, combine breadcrumbs and Parmesan cheese. \n3. In another mixing bowl, beat egg. \n4. Dip chicken breasts in egg, then coat with breadcrumb mixture. \n5. In a skillet, heat olive oil over medium-high heat. \n6. Brown chicken breasts on both sides. \n7. Transfer chicken to a baking dish. \n8. Pour marinara sauce over chicken. \n9. Sprinkle shredded mozzarella cheese over sauce. \n10. Bake for 25-30 minutes or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.6
+    },
+    {
+        "name": "Shrimp Scampi",
+        "ingredients": [
+            "1 lb. linguine",
+            "1 lb. shrimp, peeled and deveined",
+            "1/2 cup unsalted butter",
+            "4 cloves garlic, minced",
+            "1/4 tsp. red pepper flakes",
+            "1/2 cup white wine",
+            "1/4 cup freshly squeezed lemon juice",
+            "1/2 cup chopped fresh parsley",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Cook linguine according to package directions. Drain and reserve 1 cup pasta water. \n2. In a skillet, melt butter over medium heat. \n3. Add garlic and red"
+    },
+    {
+        "name": "Easy Chicken Fajitas",
+        "ingredients": [
+            "1 lb. boneless, skinless chicken breasts",
+            "1 red bell pepper",
+            "1 green bell pepper",
+            "1 onion",
+            "1 tbsp. olive oil",
+            "1 packet fajita seasoning",
+            "Tortillas, sour cream, and salsa for serving"
+        ],
+        "cooking_method": "1. Slice chicken and vegetables into thin strips. \n2. In a skillet, heat olive oil over medium-high heat. \n3. Add chicken and cook until browned. \n4. Add vegetables and cook until softened. \n5. Stir in fajita seasoning and cook for 1-2 minutes. \n6. Serve with tortillas, sour cream, and salsa.",
+        "rating": 4.7
+    },
+    {
+        "name": "One-Pot Spaghetti",
+        "ingredients": [
+            "1 lb. spaghetti",
+            "1 lb. ground beef",
+            "1 onion",
+            "2 cloves garlic",
+            "1 can diced tomatoes",
+            "4 cups beef broth",
+            "1 tsp. dried oregano",
+            "Salt and pepper",
+            "Parmesan cheese for serving"
+        ],
+        "cooking_method": "1. In a Dutch oven, cook ground beef over medium-high heat. \n2. Add onion and garlic and cook until softened. \n3. Stir in diced tomatoes, beef broth, oregano, salt, and pepper. \n4. Add spaghetti and push it down into the liquid. \n5. Bring to a simmer and cook until spaghetti is tender, stirring occasionally. \n6. Serve with Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "name": "Garlic Shrimp Pasta",
+        "ingredients": [
+            "1 lb. linguine",
+            "1 lb. shrimp, peeled and deveined",
+            "4 cloves garlic",
+            "1/4 tsp. red pepper flakes",
+            "1/4 cup olive oil",
+            "1/4 cup freshly squeezed lemon juice",
+            "Salt and pepper",
+            "Parsley for garnish"
+        ],
+        "cooking_method": "1. Cook linguine according to package directions. Reserve 1 cup pasta water. \n2. In a skillet, heat olive oil over medium heat. \n3. Add garlic and red pepper flakes and cook for 1 minute. \n4. Add shrimp and cook until pink. \n5. Stir in lemon juice and salt and pepper to taste. \n6. Toss with cooked pasta, adding reserved pasta water as needed to loosen the sauce. \n7. Garnish with parsley.",
+        "rating": 4.8
+    },
+    {
+        "name": "Sheet Pan Chicken and Vegetables",
+        "ingredients": [
+            "1 lb. boneless, skinless chicken breasts",
+            "1 lb. baby potatoes",
+            "1 lb. green beans",
+            "2 tbsp. olive oil",
+            "1 tsp. garlic powder",
+            "1 tsp. dried thyme",
+            "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 400°F. \n2. Cut chicken into cubes. \n3. In a mixing bowl, combine chicken, potatoes, green beans, olive oil, garlic powder, thyme"
+    }
+]
