@@ -5,46 +5,46 @@
         "years_of_experience": 30,
         "num_recipes": 50,
         "likes": 10000,
-        "chef_picture": "https://example.com/chef/masaharu-morimoto.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/1144614890/photo/portrait-of-a-japanese-sushi-chef.jpg?s=612x612&w=0&k=20&c=Jj2U4sPtwXgFQmL8yGy63y7OpfcB5PGxkiPIh2pDH5o="
     },
     {
         "id": "2",
         "chef_name": "Yoshihiro Murata",
-        "years_of_experience": 40,
+        "years_of_experience": 5,
         "num_recipes": 75,
         "likes": 15000,
-        "chef_picture": "https://example.com/chef/yoshihiro-murata.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/1359979528/photo/asian-man-pointing-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=_AUO2cUBFRHZkeHZK7iaEn3Bp05zvtGPhjsJdYVryx4="
     },
     {
         "id": "3",
         "chef_name": "Nobu Matsuhisa",
-        "years_of_experience": 35,
+        "years_of_experience": 15,
         "num_recipes": 60,
         "likes": 12000,
-        "chef_picture": "https://example.com/chef/nobu-matsuhisa.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/544808162/photo/portrait-of-a-baker.jpg?s=612x612&w=0&k=20&c=EpgKht1AFxqxdFlfjUFJjWRH6_vOTj5BmkFLspIOgao="
     },
     {
         "id": "4",
         "chef_name": "Hiroshi Nakamichi",
-        "years_of_experience": 20,
+        "years_of_experience": 40,
         "num_recipes": 45,
         "likes": 9000,
-        "chef_picture": "https://example.com/chef/hiroshi-nakamichi.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/844890972/photo/japanese-sweet-master.jpg?s=612x612&w=0&k=20&c=Wzzq8eLv5RVV6tmBq5lBp0EFBB0USakTQrdWochIf3k="
     },
     {
         "id": "5",
         "chef_name": "Makoto Okuwa",
-        "years_of_experience": 25,
+        "years_of_experience": 3,
         "num_recipes": 55,
         "likes": 11000,
-        "chef_picture": "https://example.com/chef/makoto-okuwa.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/1392255875/photo/asian-woman-cooking-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=NXcZwS9xls0dWev1nrhG5GaoVL7DWpO53P0tUhBUYpc="
     },
     {
         "id": "6",
         "chef_name": "Niki Nakayama",
-        "years_of_experience": 15,
+        "years_of_experience": 22,
         "num_recipes": 40,
         "likes": 8000,
-        "chef_picture": "https://example.com/chef/niki-nakayama.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/668589350/photo/the-woman-storekeeper-who-runs-the-cafe.jpg?s=612x612&w=0&k=20&c=ZQgTA6l2YsYHj-b0PZOUNCQzln4LkwidO3mcVSoxWiQ="
     }
 ]
