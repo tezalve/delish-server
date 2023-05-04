@@ -1,5 +1,6 @@
 [
     {
+        "recipe_id": "1",
         "recipe_name": "Miso Soup",
         "ingredients": [
             "Dashi",
@@ -13,6 +14,7 @@
         "chef_id": "1"
     },
     {
+        "recipe_id": "2",
         "recipe_name": "Tempura",
         "ingredients": [
             "Shrimp",
@@ -26,7 +28,8 @@
         "chef_id": "1"
     },
     {
-        "recipe_name": "Tempura",
+        "recipe_id": "3",
+        "recipe_name": "Yakitori",
         "ingredients": [
             "Shrimp",
             "Assorted vegetables",
@@ -42,6 +45,7 @@
         "chef_id": "1"
     },
     {
+        "recipe_id": "4",
         "recipe_name": "Ramen",
         "ingredients": [
             "Ramen noodles",
@@ -55,6 +59,7 @@
         "chef_id": "2"
     },
     {
+        "recipe_id": "5",
         "recipe_name": "Tonkatsu",
         "ingredients": [
             "Pork loin",
@@ -69,6 +74,7 @@
         "chef_id": "2"
     },
     {
+        "recipe_id": "6",
         "recipe_name": "Okonomiyaki",
         "ingredients": [
             "Flour",
@@ -85,6 +91,7 @@
         "chef_id": "2"
     },
     {
+        "recipe_id": "7",
         "recipe_name": "Gyoza",
         "ingredients": [
             "Ground pork",
@@ -100,6 +107,7 @@
         "chef_id": "3"
     },
     {
+        "recipe_id": "8",
         "recipe_name": "Miso Soup",
         "ingredients": [
             "Dashi",
@@ -113,6 +121,7 @@
         "chef_id": "3"
     },
     {
+        "recipe_id": "9",
         "recipe_name": "Tempura",
         "ingredients": [
             "Shrimp",
@@ -128,6 +137,7 @@
         "chef_id": "3"
     },
     {
+        "recipe_id": "10",
         "recipe_name": "Nikujaga",
         "ingredients": [
             "Thinly sliced beef",
@@ -143,6 +153,7 @@
         "chef_id": "4"
     },
     {
+        "recipe_id": "11",
         "recipe_name": "Chirashi sushi",
         "ingredients": [
             "Sushi rice",
@@ -162,6 +173,7 @@
         "chef_id": "4"
     },
     {
+        "recipe_id": "12",
         "recipe_name": "Takoyaki",
         "ingredients": [
             "Octopus",
@@ -179,6 +191,7 @@
         "chef_id": "4"
     },
     {
+        "recipe_id": "13",
         "recipe_name": "Gyoza",
         "ingredients": [
             "Ground pork",
@@ -194,6 +207,7 @@
         "chef_id": "5"
     },
     {
+        "recipe_id": "14",
         "recipe_name": "Sukiyaki",
         "ingredients": [
             "Thinly sliced beef",
@@ -208,6 +222,7 @@
         "chef_id": "5"
     },
     {
+        "recipe_id": "15",
         "recipe_name": "Oyakodon",
         "ingredients": [
             "Chicken thigh",
@@ -225,6 +240,7 @@
         "chef_id": "5"
     },
     {
+        "recipe_id": "16",
         "recipe_name": "Okonomiyaki",
         "ingredients": [
             "Flour",
@@ -243,6 +259,7 @@
         "chef_id": "6"
     },
     {
+        "recipe_id": "17",
         "recipe_name": "Tonkatsu",
         "ingredients": [
             "Pork cutlet",
@@ -257,6 +274,7 @@
         "chef_id": "6"
     },
     {
+        "recipe_id": "18",
         "recipe_name": "Yakitori",
         "ingredients": [
             "Chicken thigh",
